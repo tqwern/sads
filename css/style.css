@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+    width:  1440px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+    color: rgba(120, 165, 205, 0.908);
+    margin: 10px 752px 0px 0px ;
+}
+
+.info {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    right: 0px;
+}
+
+.info a {
+    color: rgba(54, 76, 93, 0.908);
+}
+
+.info a:hover {
+    border-bottom: 1px solid  rgba(54, 76, 93, 0.908);
+}
+
+.poisk {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.nav {
+    display: flex;
+}
+
+.algoritm {
+    display: flex;
+}
